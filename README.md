@@ -6,6 +6,6 @@ See https://wp.me/pk3lN-1dUM for the full story. In short, I used a high tempera
 This 3D model has notches in it to engage the feed arm on my glue gun, an 80W "Surebonder" high temperature gun from Amazon.
 However, different gun models may have different feed systems. YMMV.  I printed mine at 75% infill, oriented with the ramps of the notches pointing "down" so that supports aren't needed.
 
-[[https://github.com/DPHAD/PLA-Glue-Stick/blob/master/PLA%20Glue%20Stick%20In%20Use.jpg]]
+![PLA Glue Stick](https://github.com/DPHAD/PLA-Glue-Stick/blob/master/PLA%20Glue%20Stick%20In%20Use.jpg)
 
-[[https://github.com/DPHAD/PLA-Glue-Stick/raw/master/GIF.gif]]
+![In Use](https://github.com/DPHAD/PLA-Glue-Stick/raw/master/GIF.gif)

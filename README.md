@@ -9,3 +9,11 @@ However, different gun models may have different feed systems. YMMV.  I printed 
 ![PLA Glue Stick](https://github.com/DPHAD/PLA-Glue-Stick/blob/master/PLA%20Glue%20Stick%20In%20Use.jpg)
 
 ![In Use](https://github.com/DPHAD/PLA-Glue-Stick/raw/master/GIF.gif)
+
+This is the inside view of a model assembled using the PLA glue gun. It is very convenient to do these seams while holding pieces in place because 1) the glue gun is ergonomic and easy to handle, and 2) it bonds and cools quickly so you don't sit waiting for glue to dry/cure/etc.
+
+![PLA Inside Model](https://github.com/DPHAD/PLA-Glue-Stick/blob/master/Multi%20Seam%20Inside.jpg)
+
+This is the outside. The seams are lined up, and not filled with glue. Much easier to sand and fill with bondo or something prior to gettting a nice presentation finish. (Ever tried to sand a seam filled with glue? Ughh...)  Also the seam is rigid and inflexible, it has no "bend" to it like most glues do.
+
+![PLA Outside Model](https://github.com/DPHAD/PLA-Glue-Stick/blob/master/Multi%20Seam%20outside.jpg)
